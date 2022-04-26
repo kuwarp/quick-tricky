@@ -17,7 +17,7 @@ while(b--){
 
  ```
 
- >2. Some any two number without using arithmatic operator.
+ >2. <h2>Some any two number without using arithmatic operator.
   
 ```Ruby
 var getSum = function(a, b) {
@@ -30,7 +30,8 @@ var getSum = function(a, b) {
  console.log(getSum(3,4));
 ```
 
-                               <h1>OR
+ <h1>                              OR </h1>
+   
 ```Ruby
 let getSum=(a,b)=>{
  return   b?getSum(a^b,(a&b)<<1):a;
