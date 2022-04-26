@@ -2,7 +2,7 @@
 just tricky Programming Concepts
 
 
-> 1. print  nmbr from given number to the given range of the number using while loop.
+> 1. <h2>print  nmbr from given number to the given range of the number using while loop.
 
  ```
  let a=5;
