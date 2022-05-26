@@ -39,3 +39,8 @@ let getSum=(a,b)=>{
 const result= getSum(4,6)
 console.log(result);
 ```
+ >3. <h2>What is the default value of any variable. </h2>
+ 
+ ```Ruby
+   Undefined
+ ```
